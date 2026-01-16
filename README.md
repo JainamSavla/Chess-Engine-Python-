@@ -1,4 +1,5 @@
 # Simple Chess Engine
+<img width="873" height="665" alt="image" src="https://github.com/user-attachments/assets/a800cd13-90e2-44db-a3d7-199c1c99fa42" />
 
 A minimalistic chess engine written in Python with a graphical user interface (GUI). This project demonstrates basic chess logic, board evaluation, and move generation, making it a great starting point for learning about chess programming and game development.
 
